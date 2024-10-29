@@ -1,0 +1,11 @@
+# This repository contains datasets that we used in the article titled 'Estimating site amplification variability in Yangon, Myanmar from a dense nodal seismic array'
+#  Please cite the article if you use this data in your study.
+
+
+# "waveforms" folder contains all the windowed waveforms used in this study. Datasets are organized by the events.
+# results folder contains all the site responses (horizontal and vertical) and HVSR results found in this study 
+
+# Please feel free to contact if you need additional information.
+# Md Mohimanul Islam, University of Missouri Columbia
+# email: mibhk@umsystem.edu
+# last modified on 10/20/2024
