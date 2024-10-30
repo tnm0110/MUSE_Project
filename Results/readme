@@ -1,1 +1,12 @@
 
+# 
+# Horizontal and vertical directory contains site response average site response results found in this study 
+# Sg and Lg site response results are organized separately
+
+# Column information of the results:
+1: station Name
+2: station Longitude
+3: station Latitude
+4: site response value
+
+ 
