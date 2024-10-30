@@ -1,7 +1,7 @@
 
 # 
 # Horizontal and vertical directory contains site response average site response results found in this study 
-# Sg and Lg site response results are organized separately
+# File naming convention used as: phase_afile_freq_Hz (e.g. lg_afile_1.0_Hz)
 
 # Column information of the results:
 1: station Name
