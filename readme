@@ -1,12 +1,13 @@
 # This repository contains datasets and results that we used in the article titled 'Estimating site amplification variability in Yangon, Myanmar from a dense nodal seismic array'
 #  Please cite the article if you use this data/method in your study
 
-# results folder contains all the site responses (horizontal and vertical) and HVSR results found in this study 
-# Datasets used in this study are currently restricted under the data sharing agreement and will be available in mid 2025. Individual windowed waveforms used in this study can be provided upon request. 
+# results folder contains all the site responses (horizontal and vertical) found in this study
+# The HVSR folder under the result directory contains all horizontal to vertical spectral ratio (HVSR) curves, detailed H/V peaks parameters, and stability results.
+# Datasets used in this study are currently restricted under the data sharing agreement and will be available in mid-2025. Individual windowed waveforms used in this study can be provided upon request. 
 # Find more details regarding the datasets in the following link: "https://www.fdsn.org/networks/detail/X1_2020/" 
 
 
 # Please feel free to contact me if you need additional information
 # Md Mohimanul Islam, University of Missouri Columbia
 # email: mibhk@umsystem.edu
-# last modified on 10/20/2024
+# last modified on 02/27/2025
